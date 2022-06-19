@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rosie</h1>
-<h3 align="center">I ocationally make scripts for Onix Client</h3>
+<h3 align="center">I ocationally make scripts for Onix Client.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jqms&label=Profile%20views&color=0e75b6&style=flat" alt="jqms" /> </p>
 
