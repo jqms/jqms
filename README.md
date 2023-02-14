@@ -14,9 +14,11 @@ she/her
   <img src="https://lanyard.cnrad.dev/api/582594004479246343?borderRadius=5px&animated=:true" />
   <br>
   <br>
-  ---
+  </p>
+  <hr>
+<p align="center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jqms&theme=dark&hide_border=true">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jqms&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
   <br>
-</p>
+ </p>
