@@ -21,4 +21,5 @@ she/her
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jqms&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
   <br>
+  <hr>
  </p>
