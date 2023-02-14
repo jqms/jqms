@@ -4,8 +4,7 @@
 she/her
 <br>
 17
-<p align="center"><a href="https://github.com/jqms?tab=repositories">Repositories</a>.</p>
-  <p align="center">
+ <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jqms&style=for-the-badge&color=red" alt="Profile Views">
     <br>
     <br>
