@@ -1,9 +1,11 @@
 <h1 align="center">Jqms</h1>
 <p align="center">Programmer that can't pick a language.
 <br>
+<p align="center">
 she/her
 <br>
 17
+</p>
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jqms&style=for-the-badge&color=red" alt="Profile Views">
     <br>
