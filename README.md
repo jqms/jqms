@@ -2,7 +2,7 @@
 <p align="center">Programmer that can't pick a language.
 <br>
 <p align="center">
-she/her
+they/them
 <br>
 17
 </p>
