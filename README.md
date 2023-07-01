@@ -4,7 +4,7 @@
 <p align="center">
 they/them
 <br>
-17
+18
 </p>
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jqms&style=for-the-badge&color=red" alt="Profile Views">
