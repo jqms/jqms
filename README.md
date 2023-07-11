@@ -1,11 +1,9 @@
 <img src = "assets/flipped.png">
 <h1 align="center">Jqms</h1>
 <p align="center">Programmer that can't pick a language.
-<p align="center">
 they/them
 <br>
 18
-</p>
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jqms&style=for-the-badge&color=red" alt="Profile Views">
     <br>
