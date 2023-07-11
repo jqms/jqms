@@ -1,7 +1,6 @@
 <img src = "assets/flipped.png">
 <h1 align="center">Jqms</h1>
 <p align="center">Programmer that can't pick a language.
-<br>
 <p align="center">
 they/them
 <br>
@@ -21,6 +20,5 @@ they/them
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jqms&theme=dark&hide_border=true">
   <br>
-  <hr>
 </a>
 <img src = "assets/not flipped.png">
