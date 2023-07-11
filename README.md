@@ -1,5 +1,6 @@
 <img src = "assets/flipped.png">
 <p align="center">Programmer that can't pick a language.
+<br>
 they/them
 <br>
 18
