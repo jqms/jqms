@@ -1,5 +1,4 @@
 <img src = "assets/flipped.png">
-<h1 align="center">Jqms</h1>
 <p align="center">Programmer that can't pick a language.
 they/them
 <br>
