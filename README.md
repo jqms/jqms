@@ -1,5 +1,5 @@
 <img src = "assets/flipped.png">
-<p align="center">Programmer that can't pick a language.
+<p align="center">lua & c++ enthusiast (but mostly lua).
 <br>
 they/them
 <br>
