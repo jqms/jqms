@@ -1,10 +1,7 @@
 <img src = "assets/flipped.png">
 <p align="center">lua & c++ enthusiast (but mostly lua).
 <br>
-they/them
-<br>
-19
- <p align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=jqms&style=for-the-badge&color=red" alt="Profile Views">
     <br>
     <br>
