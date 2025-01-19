@@ -1,7 +1,7 @@
 <img src="assets/flipped.png">
 
 <p align="center">
-  c++, c#, js, lua, py, asm
+  c++, c#, js, lua, py, x86 asm
   <br>
   programming enthusiast - reverse engineering  
 </p>
